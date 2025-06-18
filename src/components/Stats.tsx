@@ -16,8 +16,8 @@ const Stats = () => {
       bgColor: "bg-red-100"
     },
     { 
-      number: 2000000, 
-      suffix: "M+", 
+      number: 350, 
+      suffix: "B+", 
       label: "Views Delivered", 
       icon: Eye,
       color: "text-blue-600",
